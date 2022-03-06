@@ -1,0 +1,5 @@
+map_name: China_vs_Russia
+games:
+- game_name: China vs Russia
+  file_name: China_vs_Russia.xml
+version: 0
